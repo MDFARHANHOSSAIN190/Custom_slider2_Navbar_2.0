@@ -1,0 +1,23 @@
+.c_previ {
+    bottom: 5% !important;
+    left:90% !important;
+}
+.c_next{
+    bottom: 5% !important;
+    right: 2% !important;
+}
+.c_previ, .c_next {
+    top: 85%;
+    width: 5%;
+}
+.carousel-indicators {
+    right: 70%;
+    bottom: 60% ;
+    margin-left: 8%;
+    display: block;
+}
+.carousel-indicators [data-bs-target] {
+    width: 15px;
+    height: 15px;
+     list-style: none;
+}
